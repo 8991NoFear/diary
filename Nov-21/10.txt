@@ -1,0 +1,4 @@
+PHP Laravel
+- Dùng postman để test route PUT thì để method là POST và trong body thêm key "_method" bằng "PUT"
+- $request->file('file_input') thì nhận thẳng được UploadedFile, còn $request->only(['file_input']) thì nhận được array trong đó key 'file_inpute' là UploadedFile
+- Trong catch nên return $throwable->getMessage(), khi đó dùng postman sẽ đọc lỗi dễ hơn.
