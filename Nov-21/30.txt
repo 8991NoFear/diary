@@ -1,0 +1,16 @@
+1) Finance and capital markets Khanacademy > Interest and debt
+- Continuous compound interest and e
+
+2) PHP Laravel
+- Viết BaseRepository::getCollection($param) trả về querybuilder
+
+3) Git
+- $ git update-index --assume-unchanged
+- $ git update-index --no-assume-unchanged
+
+4) Vim
+- cf[digit]
+
+5) English
+- Vocubulary: assessment, revise
+- Phrase: take too much mental resources, so magical and mythical
