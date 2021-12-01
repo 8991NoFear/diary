@@ -1,0 +1,28 @@
+[VueJS]
+
+1) Binding cho class và style
+v-bind:class và v-bind:style nhận object và array
+các giá trị được append vào chứ không override
+
+2) Render theo điều kiện
+v-if v-else-if v-else
+v-show
+key
+
+3) Render danh sách
+v-for và v-bind:key áp dụng được cho cả mảng và object
+lưu ý về phát hiện sự thay đổi trong mảng / object
+
+[VIM]
+chap06. Insert mode
+
+[PHP Laravel]
+__construct($x, $y, $z,) ---> thừa dấu ',' ở cuối ===> ReflectionException: Class ClassName does not exist
+report() ném ra lỗi HttpException
+
+[GIT]
+$ git diff branch1:path/to/file branch2:path/to/file
+
+[English]
+Lucky for you, I'm in a good mood
+You are desperate for a dollar
