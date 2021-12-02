@@ -1,0 +1,30 @@
+[GIT] 
+1) Git fetch (https://www.atlassian.com/git/tutorials/syncing/git-fetch)
+*** git fetch kết hợp với nhiều câu lệnh git khác: 
+$ git fetch <remote> <branch>
+$ git remote add <remote> <remote_url>
+$ git branch (list all local branch)
+$ git branch -r (list all remote branch)
+$ git checkout <branch> (switch to local branch if exist or create new local branch identical to remote branch and then switch to it)
+$ git log <remote>/<branch> (log commits of remote branch)
+$ git merge <remote>/<branch> (merge remote branch into currrent branch)
+
+2) Cập nhật branch là base
+$ git pull --rebase <remote> <branch>
+Câu lệnh trên sẽ chạy git rebase sau git fetch (không chạy git merge)
+
+[JWT]
+1) introduction to JWT (https://www.youtube.com/watch?v=7Q17ubqLfaM)
+- authorization
+- session manage
+
+[VueJS]
+1) Xử lý sự kiện
+sử dụng v-on
+modifier: event modifier, key modifier, system key modifier
+
+2) Ràng buộc form input
+sử dụng v-model kết hợp v-bind:value
+modifier: .number
+
+3) Cơ bản về component
