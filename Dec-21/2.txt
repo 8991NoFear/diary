@@ -28,3 +28,5 @@ sử dụng v-model kết hợp v-bind:value
 modifier: .number
 
 3) Cơ bản về component
+v-model là sự kết hợp giữa v-bind:value và v-on:input
+component động

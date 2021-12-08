@@ -1,0 +1,10 @@
+[VIM]
+1) Dot command
+
+[VueJS]
+1) Đăng ký component
+
+2) Props
+
+[PHP Laravel]
+1) Manually creating validator
