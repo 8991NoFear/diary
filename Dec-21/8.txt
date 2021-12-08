@@ -1,0 +1,10 @@
+[VIM]
+chap08: Registers
+
+[PHP Laravel]
+Eager loading
+
+[Pure SQL]
+Phải select cột ra thì where ... in mới dùng  ==> áp dụng trong relationship
+
+[VueJS]
