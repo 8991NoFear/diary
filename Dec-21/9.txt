@@ -1,0 +1,9 @@
+[PHP Laravel]
+Eager loading
+
+[Git cherry-pick] => Trông chẳng khác gì git merge commit
+Gọi commit muốn cherry-pick là A. Lấy trạng thái project tại A, merge vào nhánh hiện tại, tạo một commit có message = message A. Nếu có conflict thì phải tự resolve rồi chạy $ git cherry-pick --continue
+Muốn cherry-pick nhiều commit thì xử lý tuần tự từng commit một như trên
+
+[VIM]
+chap10. Undo & Redo
