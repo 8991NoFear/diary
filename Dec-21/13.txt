@@ -1,0 +1,14 @@
+[VIM]
+chap.10: Undo & Redo & Time travel
+
+[PHP Laravel]
+{...}
+$ php artisan breeze:install vue
+{...}
+
+[Web authentication]
+https://www.youtube.com/watch?v=2PPSXonhIck
+
+SESSION_ID ở phía server là đã được sign bằng HMAC. Client chỉ có thể đính kèm SESSION_ID vào mỗi request mà không thể sửa đổi nó (vì chỉ có mỗi server có khóa K)
+
+JWT: dữ liệu không được mã hóa (chỉ được ký giống như SESSION_ID) vì client cũng cần đọc dữ liệu trong JWT --> lỗ hổng XSS
