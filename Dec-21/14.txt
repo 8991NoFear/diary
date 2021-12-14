@@ -1,0 +1,6 @@
+[PHP Laravel]
+$a->b->c ?? null (No problem in any cases)
+$a->b->c() ?? null (Error in some cases)
+
+Date mutators
+https://laravel.com/docs/5.5/eloquent-mutators
