@@ -1,0 +1,10 @@
+[My Quote]
+Tao có thể không ngon trai nhưng tao nhất định phải kiếm thật nhiều tiền và sống sang chảnh
+
+[VIM]
+(R) Chap.11: Visual Mode
+(R) Chap.10: Undo & Redo
+
+[GIT]
+(R) Better git workflow with rebase: https://www.youtube.com/watch?v=f1wnYdLEpgI
+(R) Git cherry-pick: https://www.youtube.com/watch?v=wIY824wWpu4
