@@ -1,0 +1,7 @@
+[VueJS]
+1)
+- babel là gì? babel là một trình biên dịch của JS, mục đích của nó là chuyển đổi code ở những phiên bản >= ES6 về phiên bản cũ để chạy được trên các browser cũ
+
+- webpack là gì? webpack là một công cụ dùng để đóng gói các thành phần mã nguồn thành một file duy nhất 
+
+2) vue-router
